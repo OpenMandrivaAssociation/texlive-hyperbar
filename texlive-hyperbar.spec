@@ -1,6 +1,6 @@
 Name:		texlive-hyperbar
 Version:	48147
-Release:	1
+Release:	2
 Summary:	Add interactive Barcode fields to PDF forms
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/hyperbar
