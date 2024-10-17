@@ -3,7 +3,7 @@ Version:	48147
 Release:	2
 Summary:	Add interactive Barcode fields to PDF forms
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/hyperbar
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/hyperbar
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/hyperbar.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/hyperbar.doc.r%{version}.tar.xz
